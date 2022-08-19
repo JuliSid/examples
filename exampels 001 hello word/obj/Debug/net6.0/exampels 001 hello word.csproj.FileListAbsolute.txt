@@ -1,0 +1,15 @@
+D:\LessonsC1\exampels\exampels 001 hello word\bin\Debug\net6.0\exampels 001 hello word.exe
+D:\LessonsC1\exampels\exampels 001 hello word\bin\Debug\net6.0\exampels 001 hello word.deps.json
+D:\LessonsC1\exampels\exampels 001 hello word\bin\Debug\net6.0\exampels 001 hello word.runtimeconfig.json
+D:\LessonsC1\exampels\exampels 001 hello word\bin\Debug\net6.0\exampels 001 hello word.dll
+D:\LessonsC1\exampels\exampels 001 hello word\bin\Debug\net6.0\exampels 001 hello word.pdb
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.csproj.AssemblyReference.cache
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.AssemblyInfoInputs.cache
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.AssemblyInfo.cs
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.csproj.CoreCompileInputs.cache
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.dll
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\refint\exampels 001 hello word.dll
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.pdb
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\exampels 001 hello word.genruntimeconfig.cache
+D:\LessonsC1\exampels\exampels 001 hello word\obj\Debug\net6.0\ref\exampels 001 hello word.dll
